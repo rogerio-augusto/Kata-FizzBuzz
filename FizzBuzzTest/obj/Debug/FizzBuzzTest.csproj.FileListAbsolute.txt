@@ -1,0 +1,7 @@
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzzTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.dll
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzzTest.pdb
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.exe
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzzTest\bin\Debug\FizzBuzz.pdb
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.dll
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzzTest\obj\Debug\FizzBuzzTest.pdb

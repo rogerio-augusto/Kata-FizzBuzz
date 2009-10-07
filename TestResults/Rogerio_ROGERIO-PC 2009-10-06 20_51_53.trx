@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="892d6c6a-9097-4f56-a8d5-be4f52821023" name="Rogerio@ROGERIO-PC 2009-10-06 20:51:53" runUser="Rogerio-PC\Rogerio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="79cb5f9d-77d7-4d46-9e9d-f19871c50930">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment runDeploymentRoot="Rogerio_ROGERIO-PC 2009-10-06 20_51_53">
+      <DeploymentItem filename="C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe" />
+      <DeploymentItem filename="C:\DLLs\Moq3.1.416.3\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2009-10-06T20:51:53.2763671-03:00" queuing="2009-10-06T20:51:56.9140625-03:00" start="2009-10-06T20:51:57.5136718-03:00" finish="2009-10-06T20:51:59.1162109-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NumbersDivisibleByThreeAndFiveShouldSay_FizzBuzz" storage="c:\users\rogerio\documents\visual studio 10\projects\fizzbuzz\fizzbuzztest\bin\debug\fizzbuzztest.dll" id="c5f79c34-98f8-16b3-0f64-bee647654a8d">
+      <Execution id="2bfd9b81-5a5c-4a15-b451-b8cd3ae4be15" />
+      <TestMethod codeBase="C:/Users/Rogerio/Documents/Visual Studio 10/Projects/FizzBuzz/FizzBuzzTest/bin/Debug/FizzBuzzTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FizzBuzzTest.FizzBuzzGameTest, FizzBuzzTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumbersDivisibleByThreeAndFiveShouldSay_FizzBuzz" />
+    </UnitTest>
+    <UnitTest name="NumbersDivisibleByFiveShouldSay_Buzz" storage="c:\users\rogerio\documents\visual studio 10\projects\fizzbuzz\fizzbuzztest\bin\debug\fizzbuzztest.dll" id="d089892b-b0f3-a0ff-d30e-149e1c6f1894">
+      <Execution id="374e30e6-9ab6-4496-92f7-f6981a7595b3" />
+      <TestMethod codeBase="C:/Users/Rogerio/Documents/Visual Studio 10/Projects/FizzBuzz/FizzBuzzTest/bin/Debug/FizzBuzzTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FizzBuzzTest.FizzBuzzGameTest, FizzBuzzTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumbersDivisibleByFiveShouldSay_Buzz" />
+    </UnitTest>
+    <UnitTest name="NumbersDivisibleByThreeShouldSay_Fizz" storage="c:\users\rogerio\documents\visual studio 10\projects\fizzbuzz\fizzbuzztest\bin\debug\fizzbuzztest.dll" id="26addaf3-2a9f-e9d0-f8a2-5e989956c02b">
+      <Execution id="8b854af9-2eb0-4ea7-b222-5f379c9a5840" />
+      <TestMethod codeBase="C:/Users/Rogerio/Documents/Visual Studio 10/Projects/FizzBuzz/FizzBuzzTest/bin/Debug/FizzBuzzTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FizzBuzzTest.FizzBuzzGameTest, FizzBuzzTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumbersDivisibleByThreeShouldSay_Fizz" />
+    </UnitTest>
+    <UnitTest name="NumbersNotDivisibleByThreeOrFiveShouldSay_NumberName" storage="c:\users\rogerio\documents\visual studio 10\projects\fizzbuzz\fizzbuzztest\bin\debug\fizzbuzztest.dll" id="4054e36d-6af8-bbc9-362d-bb7d9a1e043f">
+      <Execution id="4f062af4-c3cd-4ec3-b0d8-e18c5bf5f912" />
+      <TestMethod codeBase="C:/Users/Rogerio/Documents/Visual Studio 10/Projects/FizzBuzz/FizzBuzzTest/bin/Debug/FizzBuzzTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FizzBuzzTest.FizzBuzzGameTest, FizzBuzzTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NumbersNotDivisibleByThreeOrFiveShouldSay_NumberName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="26addaf3-2a9f-e9d0-f8a2-5e989956c02b" executionId="8b854af9-2eb0-4ea7-b222-5f379c9a5840" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4054e36d-6af8-bbc9-362d-bb7d9a1e043f" executionId="4f062af4-c3cd-4ec3-b0d8-e18c5bf5f912" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5f79c34-98f8-16b3-0f64-bee647654a8d" executionId="2bfd9b81-5a5c-4a15-b451-b8cd3ae4be15" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d089892b-b0f3-a0ff-d30e-149e1c6f1894" executionId="374e30e6-9ab6-4496-92f7-f6981a7595b3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8b854af9-2eb0-4ea7-b222-5f379c9a5840" testId="26addaf3-2a9f-e9d0-f8a2-5e989956c02b" testName="NumbersDivisibleByThreeShouldSay_Fizz" computerName="ROGERIO-PC" duration="00:00:00.0309911" startTime="2009-10-06T20:51:57.9335937-03:00" endTime="2009-10-06T20:51:58.7451171-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b854af9-2eb0-4ea7-b222-5f379c9a5840">
+    </UnitTestResult>
+    <UnitTestResult executionId="4f062af4-c3cd-4ec3-b0d8-e18c5bf5f912" testId="4054e36d-6af8-bbc9-362d-bb7d9a1e043f" testName="NumbersNotDivisibleByThreeOrFiveShouldSay_NumberName" computerName="ROGERIO-PC" duration="00:00:00.0113793" startTime="2009-10-06T20:51:58.7783203-03:00" endTime="2009-10-06T20:51:58.8085937-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f062af4-c3cd-4ec3-b0d8-e18c5bf5f912">
+    </UnitTestResult>
+    <UnitTestResult executionId="2bfd9b81-5a5c-4a15-b451-b8cd3ae4be15" testId="c5f79c34-98f8-16b3-0f64-bee647654a8d" testName="NumbersDivisibleByThreeAndFiveShouldSay_FizzBuzz" computerName="ROGERIO-PC" duration="00:00:00.0040189" startTime="2009-10-06T20:51:58.8134765-03:00" endTime="2009-10-06T20:51:58.8378906-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2bfd9b81-5a5c-4a15-b451-b8cd3ae4be15">
+    </UnitTestResult>
+    <UnitTestResult executionId="374e30e6-9ab6-4496-92f7-f6981a7595b3" testId="d089892b-b0f3-a0ff-d30e-149e1c6f1894" testName="NumbersDivisibleByFiveShouldSay_Buzz" computerName="ROGERIO-PC" duration="00:00:00.0044775" startTime="2009-10-06T20:51:58.8476562-03:00" endTime="2009-10-06T20:51:58.8701171-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="374e30e6-9ab6-4496-92f7-f6981a7595b3">
+    </UnitTestResult>
+  </Results>
+</TestRun>

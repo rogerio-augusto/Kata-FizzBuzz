@@ -1,0 +1,5 @@
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+C:\Users\Rogerio\Documents\Visual Studio 10\Projects\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
